@@ -1,1 +1,1 @@
-NsoHoàn:0.tcp.ap.ngrok.io:16344:0:0
+NsoFree:0.tcp.ap.ngrok.io:14312:0:0
