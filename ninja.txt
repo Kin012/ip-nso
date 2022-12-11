@@ -1,1 +1,1 @@
-Giai  Tri  : 222.255.214.232:14444:0:0
+Giai  Tri  : 0.tcp.ap.ngorok.io:12418:0:0
