@@ -1,1 +1,1 @@
-GiaiTri:0.tcp.ap.ngrok.io:10009:0:0
+GiaiTri:222.255.214.250:144444:0:0
